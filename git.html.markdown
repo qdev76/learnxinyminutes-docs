@@ -184,6 +184,9 @@ $ git add HelloWorld.java
 # add a file in a nested dir
 $ git add /path/to/file/HelloWorld.c
 
+# add all changed files
+$ git add -A
+
 # Regular Expression support!
 $ git add ./*.java
 ```
